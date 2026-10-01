@@ -1,0 +1,14 @@
+{
+"companyName": "YEMMERS",
+"productName": "HELPME",
+"dataUrl": "HELP M (webgl).data.unityweb",
+"wasmCodeUrl": "HELP M (webgl).wasm.code.unityweb",
+"wasmFrameworkUrl": "HELP M (webgl).wasm.framework.unityweb",
+"TOTAL_MEMORY": 33554432,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "HELP M (webgl).jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
